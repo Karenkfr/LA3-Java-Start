@@ -4,10 +4,7 @@ import java.util.Date;
 import java.util.List;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Marcio Michelluzzi
- */
+
 public class Task {
 
     private int id;
