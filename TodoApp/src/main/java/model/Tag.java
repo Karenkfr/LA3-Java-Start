@@ -3,10 +3,7 @@ package model;
 import java.util.Date;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Marcio Michelluzzi
- */
+
 public class Tag {
     
     private int id;
