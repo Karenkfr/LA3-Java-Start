@@ -9,10 +9,7 @@ import java.util.List;
 import model.Project;
 import util.ConnectionFactory;
 
-/**
- 
- * @author Marcio Michelluzzi
- */
+
 public class ProjectDAO {
 
     public void save(Project project) {
