@@ -9,10 +9,7 @@ import java.util.List;
 import model.Tag;
 import util.ConnectionFactory;
 
-/**
- *
- * @author Marcio Michelluzzi
- */
+
 public class TagDAO {
 
     public void save(Tag tag) {
